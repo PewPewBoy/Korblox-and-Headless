@@ -5,7 +5,7 @@ _8f953HQbO33QXED7, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Pro Script",
-	Text = "Made By Heyx#2112",
+	Text = "Korblox, Headless, Animations, Soyoo Added",
 	Duration = 5
 })
 
