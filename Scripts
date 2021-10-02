@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/Korblox-and-Headless/main/The%20Script", true))() -- Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/Korblox-and-Headless/main/The%20Script", true))() -- Korblox and Stuff
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/Korblox-and-Headless/main/Godblock", true))() -- Godblock || No Need For Unban
