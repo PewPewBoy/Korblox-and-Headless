@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/Korblox-and-Headless/main/The%20Script", true))() -- Script
